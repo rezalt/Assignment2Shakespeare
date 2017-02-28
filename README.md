@@ -4,4 +4,4 @@ To use the Linked symbol table run the main method from the class RunLinkedSymbo
 To use the Array symbol table run the main method from the class RunArraySymbolTable
 
 
-We ran into some problems/time issues displaying the rest of the symbol tables.
+The runmethods for the rest of the symbol tables are still under development as we ran into some problems/time issues.
